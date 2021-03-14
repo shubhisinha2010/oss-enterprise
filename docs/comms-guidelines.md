@@ -24,7 +24,7 @@ Community members with prior contributions will be identified with a CONTRIBUTOR
 
 Our [CODE OF CONDUCT](templates/code-of-conduct.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
 
-Violations are not tolerated, but there are always some gray areas.
+Violations are not tolerated, but there are always some gray areas for few cases which may come up at any given moment of time.
 
 - **All incidents** are logged in our <INTERNAL TOOL>. This ensures gray areas do not escalate to a violation without the awareness of all maintainers.
 - **Indirect violations or gray areas** can usually be addressed with a warning. Send the user a direct message if possible (say, if they're on our Slack instance). If the violation occurred in an issue, pull request, or other public space, you should respond publicly as well. It is important that all community members see violations are not tolerated.
