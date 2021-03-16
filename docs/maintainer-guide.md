@@ -4,7 +4,7 @@ As a maintainer of an open source project, you become the face of the company to
 
 ## The role of the Maintainer
 
-A great maintainer:
+A great maintainer is the one which:
 
 - Takes responsibility for the health of projects they release.
    - Takes in what they have built, maintains quality to a level befitting of our organization
