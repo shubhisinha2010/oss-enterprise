@@ -48,6 +48,6 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 
 ## :shipit:
 
-- [ ] Make the repository public!
+- [ ] Make the repository public to facilitate open source!
 - [ ] Communicate the release internally
 - [ ] Launch external marketing efforts
